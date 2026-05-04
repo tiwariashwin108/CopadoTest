@@ -164,9 +164,9 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
-        <fullName>Third_Custom_Field__c</fullName>
+        <fullName>First_Custom_Field__c</fullName>
         <externalId>false</externalId>
-        <label>Third Custom Field</label>
+        <label>First Custom Field</label>
         <length>245</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
@@ -175,9 +175,9 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>First_Custom_Field__c</fullName>
+        <fullName>Third_Custom_Field__c</fullName>
         <externalId>false</externalId>
-        <label>First Custom Field</label>
+        <label>Third Custom Field</label>
         <length>245</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
