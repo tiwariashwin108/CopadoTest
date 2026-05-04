@@ -164,6 +164,14 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>First_Checkbox__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>First Checkbox</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>First_Custom_Field__c</fullName>
         <externalId>false</externalId>
         <label>First Custom Field</label>
